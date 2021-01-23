@@ -2,7 +2,7 @@
 
 I am a committed and  Full-Stack developer. I am passionate about building website applications, mobile application and I’m always adding new skills to my repertoire. I am a good team player that love to provide dynamic solutions.
 
-I worked for Touchcore Technology Limited, where I worked on projects like Fintech (Loan Management) applications, Hyperlink Web Scrapper, Lawfirm management App, and while i am currently working part-time with Sanwopay, i have built a landing page ([!Sanwopay](https://sanwopay.com)), fintech mobile app (Sanwopay) and I am also managing the team as the leader while still handling the backend of the mobile app. I've been living and breathing Web development and Applications😍. Currently looking for opportunities. 
+I worked for Touchcore Technology Limited, where I worked on projects like Fintech (Loan Management) applications, Hyperlink Web Scrapper, Lawfirm management App, and while i am currently working part-time with Sanwopay, i have built a landing page ([Sanwopay](https://sanwopay.com)), fintech mobile app (Sanwopay) and I am also managing the team as the leader while still handling the backend of the mobile app. I've been living and breathing Web development and Applications😍. Currently looking for opportunities. 
 
 When I am not coding I make researches on Software Development and programming and learn new updates on stacks I write. I enjoy cooking, music and travelling. 
 
